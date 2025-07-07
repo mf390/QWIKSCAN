@@ -6,16 +6,17 @@ QWIKSCAN is a low level, high performance PDS scanning utility that will perform
                     Maximised PDS Scanning                                      
                                                                                 
                                                                                 
-Contents                                                                        
-Contents                                                     2                  
-Installing QUIKSCAN                                          4                  
-Structured Testing of QUIKSCAN                               5                  
- Testing                                                    5                   
-QUIKSCAN Modes of Operation                                  6                  
- Normal Locate                                              6                   
- Super Locate                                               6                   
-   Mask Matching Fields                                     7                   
-   Introduction                                                                 
+# Contents                                                                        
+                  
+1 Installing QUIKSCAN                                                            
+  tructured Testing of QUIKSCAN                                                 
+    Testing                                                                       
+QUIKSCAN Modes of Operation                                                    
+ Normal Locate                                                                 
+ Super Locate                                                                  
+   Mask Matching Fields                                                        
+   Introduction                                             
+   
 QWIKSCAN is written in S/370 Assembler H and executes within an                 
 ISPF environment. QWIKSCAN requires ISPF Release 2 Version 0 or                 
 above  to  process, it also requires a terminal type of  3192-2                 
