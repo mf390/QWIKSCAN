@@ -9,13 +9,13 @@ QWIKSCAN is a low level, high performance PDS scanning utility that will perform
 # Contents                                                                        
                   
 1 Installing QUIKSCAN                                                            
-  tructured Testing of QUIKSCAN                                                 
-    Testing                                                                       
-QUIKSCAN Modes of Operation                                                    
- Normal Locate                                                                 
- Super Locate                                                                  
-   Mask Matching Fields                                                        
-   Introduction                                             
+a Structured Testing of QUIKSCAN                                                 
+b Testing                                                                       
+2 QUIKSCAN Modes of Operation 
+a Normal Locate                                                                 
+b Super Locate                                                                  
+c Mask Matching Fields                                                        
+d Introduction                                             
    
 QWIKSCAN is written in S/370 Assembler H and executes within an                 
 ISPF environment. QWIKSCAN requires ISPF Release 2 Version 0 or                 
